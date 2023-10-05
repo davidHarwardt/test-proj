@@ -1,6 +1,6 @@
 
 
 fn main() {
-    println!("test");
+    println!("asdf");
 }
 
